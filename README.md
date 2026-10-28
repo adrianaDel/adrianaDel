@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring the endless possibilities of coding and creating innovative solutions.
 - 🌱 I’m currently learning various programming languages and sharpening my problem-solving skills.
 - 💞️ I’m looking to collaborate on exciting projects that challenge and inspire creativity.
-- 📫 How to reach me: Feel free to drop me a message here on GitHub or reach out via email at adrianamonroy27@gmail.com. Let's connect and code together!
+- 📫 How to reach me: Feel free to drop me a message here on GitHub or reach out via email at yaniramonroy27@gmail.com. Let's connect and code together!
 
 <!---
 adrianaDel/adrianaDel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
